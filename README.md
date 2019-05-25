@@ -1,2 +1,1 @@
-# simple-flask-blog
-A simple flask blog
+First flask blog project
